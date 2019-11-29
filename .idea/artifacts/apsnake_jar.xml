@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="apsnake:jar">
+    <output-path>$PROJECT_DIR$/compiler/artifacts/apsnake_jar</output-path>
+    <root id="archive" name="apsnake.jar">
+      <element id="module-output" name="apsnake" />
+    </root>
+  </artifact>
+</component>
